@@ -24,3 +24,4 @@ It is an android application to arrange your upcoming trips, organize and alert 
 * [meow] - bottom navigation bar
 * [firebase-database] - real time database
 * [firebase-auth] - for google and Email,password signin-regestration
+* [Navigation Component] - for navigating between fragments
